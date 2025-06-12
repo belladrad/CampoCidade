@@ -1,4 +1,4 @@
-# CampoCidade
+# AGRINHO2025
 ▪ O que é?
 Trata-se de um site institucional voltado à sustentabilidade socioambiental, promovendo a integração entre meio urbano e rural por meio de projetos, notícias, dicas e conteúdos educativos.
 
